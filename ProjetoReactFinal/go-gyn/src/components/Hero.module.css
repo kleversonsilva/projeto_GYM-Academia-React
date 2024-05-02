@@ -1,0 +1,33 @@
+/* Hero.module.css */
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Divide em 3 colunas com larguras iguais */
+    gap: 30px; /* Espaçamento entre as divs */
+  }
+  
+  .item {
+    text-align: center; /* Centraliza horizontalmente o conteúdo */
+    color: black;
+
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    color: black;
+  }
+  
+  .button {
+    background-color: blue;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #444;
+  }
+  
