@@ -5,7 +5,7 @@
 ## GYM-Academia é Uma Aplicação web para auxiliar na operação e administração de academias.
 
 > Este projeto visa oferecer uma plataforma intuitiva e de facil interação com o usuario.
-> 
+
 
 ### Especificações principais
 
@@ -20,12 +20,12 @@
   * GIT
   * Visual Studio Code
 
-- ***Recursos principais:
+- ***Recursos principais***
  - Cadastrar Usuarios
  - Editar ou deletar cadastos
  - Venda de produtos
 
-- ***Conteudo educacional:
+- ***Conteudo educacional***
   - Recursos para educação Nutricional e saude
   - Artigos e dicas sobre treinamentos.
 
