@@ -31,17 +31,4 @@
 
 
 
-- ***Clientes***
-  - cadastrar
-  - remover
-  - atualizar
-  - pegar todos os clientes
-  - filtrar cliente por id
 
-- ***Carros***
-  - cadastrar
-  - remover
-  - atualizar
-  - pegar todos os carros
-  - filtrar carro por id
-  - opcional; filtrar carro por categoria.
