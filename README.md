@@ -16,10 +16,18 @@
 * HTML5
 * React
 
-###Ferramentas 
+### Ferramentas 
   * GIT
   * Visual Studio Code
 
+- ***Recursos principais:
+ - Cadastrar Usuarios
+ - Editar ou deletar cadastos
+ - Venda de produtos
+
+- ***Conteudo educacional:
+  - Recursos para educação Nutricional e saude
+  - Artigos e dicas sobre treinamentos.
 
 
 
