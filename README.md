@@ -1,31 +1,26 @@
-<h1 align="center">
-  <img width="300" align="center" src=".github/logo.png">
-</h1>
-
-<h3 align="center">
-Plataforma de gerenciamento para academias
-</h3>
-
-<p align="center">
-  <a href="#computer-sobre-o-projeto">Sobre o projeto</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#books-guia-de-instalação-e-execução">Guia de instalação e execução</a> | <a href="#page_with_curl-licença">Licença</a>
-</p>
 
 
+# GIM-Academia
 
-# Projeto - Api Loja De Carros virtual
+## GYM-Academia é Uma Aplicação web para auxiliar na operação e administração de academias.
 
-## Api simples, cuja a funcionalidade é com base em dois autores, clientes e carros:
-
-> Uma loja virtual de carros onde o cliente cadastrado, terá várias opções de carros cadastrados no sistema 
-> cada carro terá sua categoria: simples, popular e luxo.
+> Este projeto visa oferecer uma plataforma intuitiva e de facil interação com o usuario.
+> 
 
 ### Especificações principais
 
-* [Spring](https://spring.io/) - Framework Web Java/Kotlin MVW
-* [Spring Boot](https://spring.io/projects/spring-boot) - Framework Initializer
-* [Java](https://www.java.com/) - Linguagem
-* [MySQL](https://www.mysql.com/) - SGBD
-* [Intellij IDEA](https://www.jetbrains.com/idea/) - IDE
+* Tecnologias utilizadas:
+* Front-end
+* Javascript
+* CSS3
+* HTML5
+* React
+
+###Ferramentas 
+  * GIT
+  * Visual Studio Code
+
+
 
 
 - ***Clientes***
