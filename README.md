@@ -1,6 +1,6 @@
 
 
-# GIM-Academia
+# GYM-Academia
 
 ## GYM-Academia é Uma Aplicação web para auxiliar na operação e administração de academias.
 
